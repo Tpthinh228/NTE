@@ -1,2 +1,0 @@
-# NTE
-việt hoá NTE
